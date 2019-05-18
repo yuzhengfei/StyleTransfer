@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "768de8e69831445b4a561c63a079ea50"
+build_time: [1558172113, 807074000]
+inputs:
+  "/Users/yuzhengfei/Desktop/fast_style_transfer_classic1/fast_style_transfer_classic1/ViewController.swift": [1558172113, 678066305]
+  "/Users/yuzhengfei/Desktop/fast_style_transfer_classic1/fast_style_transfer_classic1/StyleTransferInput.swift": [1520475203, 0]
+  "/Users/yuzhengfei/Desktop/fast_style_transfer_classic1/fast_style_transfer_classic1/AppDelegate.swift": [1520645662, 0]
+  "/Users/yuzhengfei/Desktop/fast_style_transfer_classic1/Build/Intermediates.noindex/fast_style_transfer_classic1.build/Debug-iphoneos/fast_style_transfer_classic1.build/DerivedSources/CoreMLGenerated/rain_princess/rain_princess.swift": [1558168986, 838677132]
+  "/Users/yuzhengfei/Desktop/fast_style_transfer_classic1/Build/Intermediates.noindex/fast_style_transfer_classic1.build/Debug-iphoneos/fast_style_transfer_classic1.build/DerivedSources/CoreMLGenerated/classic1_out_wave/classic1_out_wave.swift": [1558169563, 491760769]
+  "/Users/yuzhengfei/Desktop/fast_style_transfer_classic1/Build/Intermediates.noindex/fast_style_transfer_classic1.build/Debug-iphoneos/fast_style_transfer_classic1.build/DerivedSources/CoreMLGenerated/udnie/udnie.swift": [1558168986, 652619841]
+  "/Users/yuzhengfei/Desktop/fast_style_transfer_classic1/Build/Intermediates.noindex/fast_style_transfer_classic1.build/Debug-iphoneos/fast_style_transfer_classic1.build/DerivedSources/CoreMLGenerated/la_muse/la_muse.swift": [1558168987, 25606898]
